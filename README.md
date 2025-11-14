@@ -1,2 +1,2 @@
-# scrolling-announcement-privacy
-Privacy Policy for Scrolling Announcement Bar PRO
+# Marquee-scroll-Pro-privacy
+Privacy Policy for Marquee scroll PRO
